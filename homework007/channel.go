@@ -5,7 +5,7 @@ import (
 )
 
 func task3(s []int, c chan int) {
-	// 第7回スクール 宿題4 チャネルを実装してください。
+
 }
 
 func Test_4() {
