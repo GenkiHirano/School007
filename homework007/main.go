@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/GenkiHirano/School007/homework007"
-)
+import "github.com/GenkiHirano/School007/homework007"
 
 func main() {
 	homework007.Test_1()
